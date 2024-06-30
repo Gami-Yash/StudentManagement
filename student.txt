@@ -1,0 +1,10 @@
+1111	yash	9.24	75	ai
+2222	meet	9.00	83	ai
+3333	malav	9.11	89	ai
+4444	vandan	8.55	90	ai
+5555	sanket	9.44	99	csd
+6666	sahaj	8.43	80	csd
+7777    sahal   8.50    78  csd
+8888    ved     9.10    80  ai
+9999    dev     8.70    95  ai
+1000    het     9.30    88  csd
